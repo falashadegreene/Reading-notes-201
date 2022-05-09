@@ -20,7 +20,7 @@ Traditional HTML layouts that make up the body include header, nav, content, art
 a page without creating countless amount of div elements. You can also use figcaption elements to display quote blocks or aside elements that holds text
 on the page that is considered secondary to the main articles. HTML 5 elements provides clearer and organized code and structure for a webpage.
 
-## process and Design
+## Process and Design
 
 Understanding your audience is important to the process of designing websites. Identifying and collecting those details will help in creating your wireframe. 
 Wireframes are extremely important when building a website, because it provides the blueprint or plan for the webpage with an organized approach. Design
