@@ -22,15 +22,14 @@ on the page that is considered secondary to the main articles. HTML 5 elements p
 
 ## Process and Design
 
-Understanding your audience is important to the process of designing websites. Identifying and collecting those details will help in creating your wireframe. 
-Wireframes are extremely important when building a website, because it provides the blueprint or plan for the webpage with an organized approach. Design
-will help you convey your message more clearer to your audience when creating a flow, by grouping similar information together or using key styles and colors. 
+Understanding your audience is important to the process of designing websites. Identifying and collecting those details will help in creating your wireframe. Wireframes are extremely important when building a website, because it provides the blueprint or plan for the webpage with an organized approach. Design will help you convey your message more clearer to your audience when creating a flow, by grouping similar information together or using key styles and colors. 
 
 ## The ABC of programing
 
-JavaScript is essentially a set of instructions that a computer can follow to perform a task. Writing short to the scripts or listing of instructions will 
-help the computer understand your directions. You can write instruction by idenfying the goal, breaking the script or instruction into pieces, and creating 
-steps. After breaking down those steps you then code the steps. learning how to think like a computer and how it sees and processes information will help 
-with creating step by step code instructions. Best practices for writing Javascript is to keep the code in a separate file. The HTML <script> tag element is
-used in HTML pages that tells the browser to load javascript. 
+JavaScript is essentially a set of instructions that a computer can follow to perform a task. Writing short bit scripts or listing of instructions will 
+help the computer understand your directions. You can write instruction by idenfying the desired outcome, breaking the script or instruction into pieces, and creating steps. After breaking down those steps you can code out the steps. learning how to think like a computer and how it sees and processes information will help with creating step by step code instructions. Best practices for writing Javascript is to keep the code in a separate file. The HTML <script> tag element is used in HTML pages that tells the browser to launch javascript. 
+  
+## Things I want to know more about
+ 
+- Understanding the componets that make up Javascript.
   
