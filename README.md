@@ -2,7 +2,7 @@
 
 ## *Table of Contents*
 
-- Reading assignment 1
+- Introductory HTML and JavaScript
 - Reading assignment 2
 - Reading assignment 3
 - Reading assignment 4
@@ -17,6 +17,8 @@
 - Reading assignment 13
 - Reading assignment 14
 - Reading assignment 15
+
+
 
 <https://github.com/falashadegreene/>
 
