@@ -2,7 +2,7 @@
 
 ## *Table of Contents*
 
-- [ ] Introductory HTML and JavaScript
+- [X]  Introductory HTML and JavaScript
 - Reading assignment 2
 - Reading assignment 3
 - Reading assignment 4
