@@ -2,7 +2,7 @@
 
 ## *Table of Contents*
 
-- [X]  Introductory HTML and JavaScript
+- [X] *[class-01](https://github.com/falashadegreene/Reading-notes-201/class-01.md)*
 - Reading assignment 2
 - Reading assignment 3
 - Reading assignment 4
