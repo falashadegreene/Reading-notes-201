@@ -31,5 +31,5 @@ help the computer understand your directions. You can write instruction by idenf
   
 ## Things I want to know more about
  
-- Understanding the componets that make up Javascript.
+- Why is it best practice to use semantic tags verses div tags?
   
