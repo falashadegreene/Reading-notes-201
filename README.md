@@ -3,7 +3,7 @@
 ## *Table of Contents*
 
 - [X] *[class-01](https://github.com/falashadegreene/Reading-notes-201/class-01.md)*
-- Reading assignment 2
+- [X] *[class-02](https://github.com/falashadegreene/Reading-notes-201/class-02.md)*
 - Reading assignment 3
 - Reading assignment 4
 - Reading assignment 5
@@ -18,7 +18,4 @@
 - Reading assignment 14
 - Reading assignment 15
 
-
-
 <https://github.com/falashadegreene/>
-
