@@ -17,3 +17,7 @@ Lists are contents on a page that can be numbered, bullet points, or listed out 
 ## Boxes
 
 HTML treats every element as if it lives in it's own separate box. These boxes can be controlled by css by changing the dimension, creating borders, padding and margin. You can also hide the visibility of a box make it visiable. Creating box-shadows and border-radius are many ways you can completely change the box into other shapes.
+
+## Things I want to know more about
+
+- I would like to know more about switch statments.
