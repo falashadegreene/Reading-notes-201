@@ -6,7 +6,7 @@
 - [X] *[class-02](https://github.com/falashadegreene/Reading-notes-201/class-02.md)*
 - [X] *[class-03](https://github.com/falashadegreene/Reading-notes-201/class-03.md)*
 - [X] *[class-04](https://github.com/falashadegreene/Reading-notes-201/class-04.md)*
-- Reading assignment 5
+- [X] *[class-05](https://github.com/falashadegreene/Reading-notes-201/class-05.md)*
 - Reading assignment 6
 - Reading assignment 7
 - Reading assignment 8
