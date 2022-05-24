@@ -13,7 +13,7 @@
 - [X] *[class-09](https://github.com/falashadegreene/Reading-notes-201/class-09.md)*
 - [X] *[class-10](https://github.com/falashadegreene/Reading-notes-201/class-10.md)*
 - [X] *[class-11](https://github.com/falashadegreene/Reading-notes-201/class-11.md)*
-- Reading assignment 12
+- [X] *[class-12](https://github.com/falashadegreene/Reading-notes-201/class-12.md)*
 - Reading assignment 13
 - Reading assignment 14
 - Reading assignment 15
