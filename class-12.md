@@ -11,4 +11,4 @@ You can create visually appeling charts tables with Chart.JS. Chart.JS is an ope
 type: "scatter",
 data: {}
 options: {}
-});
+});`
