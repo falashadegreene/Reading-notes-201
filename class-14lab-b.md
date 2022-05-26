@@ -1,0 +1,3 @@
+# Google's Quest to find what makes the perfect team 
+
+Google discovered that there are five key characteristics of enhanced teams. Psychological safety, Dependability, structure and clarity, meaning and impact. Google also believed if your right brained it was important to develop a strategic mindset by knowing an understanding what drives the company success. Be known for somthing and practice tackling complex problems. If you are left brained google beleived in developing learning agility, finding joy in ambiguity and putting your social leadership skills to the test. 
